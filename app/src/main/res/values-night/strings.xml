@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Interface Netflix</string>
     <string name="menu_mensagem">Mensagem</string>
     <string name="menu_volume">Menu Volume</string>
     <string name="menu_favoritos">Menu Favoritos</string>
